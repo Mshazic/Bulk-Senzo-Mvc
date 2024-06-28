@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/senzonzuza/Projects/Bulky/Bulk-Senzo-Mvc/BulkyWebRazo/obj/Debug/net8.0/scopedcss/projectbundle/BulkyWebRazo.bundle.scp.css",
+      "PackagePath": "staticwebassets/BulkyWebRazo.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/senzonzuza/Projects/Bulky/Bulk-Senzo-Mvc/BulkyWebRazo/wwwroot/background.png",
+      "PackagePath": "staticwebassets/background.png"
+    },
+    {
+      "Id": "/Users/senzonzuza/Projects/Bulky/Bulk-Senzo-Mvc/BulkyWebRazo/wwwroot/exampleJsInterop.js",
+      "PackagePath": "staticwebassets/exampleJsInterop.js"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.BulkyWebRazo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.BulkyWebRazo.props",
+      "PackagePath": "build\\BulkyWebRazo.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.BulkyWebRazo.props",
+      "PackagePath": "buildMultiTargeting\\BulkyWebRazo.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.BulkyWebRazo.props",
+      "PackagePath": "buildTransitive\\BulkyWebRazo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
