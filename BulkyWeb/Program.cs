@@ -1,5 +1,5 @@
-﻿using BulkyWeb.Data;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
+using Senzo.DataAccess.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
