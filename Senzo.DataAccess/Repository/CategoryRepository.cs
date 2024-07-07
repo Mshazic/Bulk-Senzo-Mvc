@@ -14,7 +14,7 @@ namespace Senzo.DataAccess.Repository
             _db = db;
         }
 
-       
+
 
         public void Update(Category obj)
         {
